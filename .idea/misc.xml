@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projetos/Android/app/src/main/res/drawable/circulo_verde.xml" value="0.22552083333333334" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act__requisicoes.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_cadastro.xml" value="0.1" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_corrida.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_login.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_main.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_motorista.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_passageiro.xml" value="0.1" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/act_requisicoes.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/adapter_requisicoes.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/content_passageiro.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/layout/toolbar.xml" value="0.209375" />
+        <entry key="..\:/Projetos/Android/app/src/main/res/menu/menu_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

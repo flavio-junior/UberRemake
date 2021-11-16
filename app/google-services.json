@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61220258734",
+    "project_id": "uberremake-5d2d2",
+    "storage_bucket": "uberremake-5d2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61220258734:android:d9ca5722a6441c21e33e3f",
+        "android_client_info": {
+          "package_name": "br.com.uberremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61220258734-o0mp96v6f8t4435r01mqnkf7l3r2d8u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.uberremake",
+            "certificate_hash": "2d1b2d4dd7531d8b9aaff2fde11acdf97dc2ccb1"
+          }
+        },
+        {
+          "client_id": "61220258734-3mecbqbaqkudkg89alu4qhcmnnbtp57m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhDFfK6i7GEsGR5vTF3e5_EbUvGK5W6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61220258734-3mecbqbaqkudkg89alu4qhcmnnbtp57m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
